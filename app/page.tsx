@@ -12,7 +12,7 @@ const Home = () => {
           <div className="w-12 mt-5 mx-auto rounded-full aspect-square border-2 bg-slate-700 text-white flex items-center justify-center">
             <Fingerprint />
           </div>
-          Making some changes!
+          Making some changes! 2
           <div className="flex flex-col items-center py-5">
             <div
               className={cn(
